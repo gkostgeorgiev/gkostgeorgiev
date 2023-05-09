@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, my name is Georgi 👋
 
-<!--
-**gkostgeorgiev/gkostgeorgiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a JavaScript web developer who recently graduated [SoftUni].
 
-Here are some ideas to get you started:
+[SoftUni]: https://softuni.bg/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in all things JavaScript and particularly enjoy building MERN applications. However, I am a curious mind that plans to enrich his own software knowledge eventually with other programming languages and frameworks. 
+
+## Certificates:
+You can review my certificates [here](https://drive.google.com/drive/u/0/folders/1qqkhDjj8ar0dn11lmJwMewc1YNfsd6mZ).
+
+## Skills: 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,redux,nodejs,express,postman,vscode,html,css)](https://skillicons.dev)
+
+## Statistics:
+<img align='left' width='30%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gkostgeorgiev&layout=compact' />
