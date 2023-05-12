@@ -11,3 +11,6 @@ You can review my certificates [here](https://drive.google.com/drive/u/0/folders
 
 ## Skills: 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,redux,nodejs,express,postman,vscode,html,css)](https://skillicons.dev)
+
+## Statistics:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkostgeorgiev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
